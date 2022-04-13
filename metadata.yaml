@@ -1,0 +1,42 @@
+_repo: Texas-Pecan-Recipes-Revised_67651
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Brown, Reagan V.
+    birthdate: 1921
+    deathdate: 1999
+    gutenberg_agent_id: '51991'
+    url: http://www.gutenberg.org/2009/agents/51991
+    wikipedia: https://en.wikipedia.org/wiki/Reagan_V._Brown
+creator:
+  author:
+    agent_name: Texas. Department of Agriculture
+    aliases:
+    - TDA
+    - Texas. State Department of Agriculture
+    - Texas. Dept. of Agriculture
+    - Texas. Commissioner of Agriculture
+    gutenberg_agent_id: '54375'
+    url: http://www.gutenberg.org/2009/agents/54375
+    wikipedia: https://en.wikipedia.org/wiki/Texas_Department_of_Agriculture
+description: ''
+gutenberg_issued: '2022-03-18'
+identifiers:
+  gutenberg: '67651'
+language: en
+pgterms:marc905: 20201121143256anonymous
+pgterms:marc906: '1983'
+pgterms:marc907: US
+production_note: Stephen Hutcheson and the Online Distributed Proofreading Team at
+  https://www.pgdp.net
+publication_note: United States :Texas Department of Agriculture,1983.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pecan'
+- !lcsh 'Cooking (Pecans)'
+- !lcc 'TX'
+- GITenberg
+title: Texas Pecan Recipes (Revised)
+url: http://www.gutenberg.org/ebooks/67651
