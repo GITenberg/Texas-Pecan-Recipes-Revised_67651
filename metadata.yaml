@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '51991'
     url: http://www.gutenberg.org/2009/agents/51991
     wikipedia: https://en.wikipedia.org/wiki/Reagan_V._Brown
+covers:
+- cover_type: archival
+  image_path: 67651-h/images/cover.jpg
 creator:
   author:
     agent_name: Texas. Department of Agriculture
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/54375
     wikipedia: https://en.wikipedia.org/wiki/Texas_Department_of_Agriculture
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67651#Texas-Pecan-Recipes-Revised
 gutenberg_issued: '2022-03-18'
 identifiers:
   gutenberg: '67651'
